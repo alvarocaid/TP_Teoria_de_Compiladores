@@ -1,4 +1,4 @@
-![LogoUPC](logoupc.svg)
+![LogoUPC](./logoupc.svg)
 1ACC0218-2520-1733 - Teoría de Compiladores
 Profesor: Peter Jonathan Montalvo Garcia
 
@@ -95,6 +95,7 @@ Objetivos específicos
 - Implementar operaciones simbólicas básicas sobre el AST: derivación simbólica, simplificación algebraica y trigonométrica, y comprobaciones de continuidad en puntos críticos.
 - Integrar (opcionalmente) una biblioteca simbólica madura (por ejemplo SymPy) para delegar o validar transformaciones complejas y ahorrar tiempo de desarrollo.
 - Crear una suite de pruebas con ejemplos (integrales simbólicas e indefinidas, funciones trigonométricas, polinomios) que verifiquen corrección de parseo y de las operaciones simbólicas.
+
 
 
 
